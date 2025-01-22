@@ -30,3 +30,19 @@ The dataset includes the following columns:
 - Python 3.x
 - Jupyter Notebook
 
+### Setup Instructions
+
+1. Clone the repository:
+    ```bash
+    git clone https://github.com/yourusername/trAPIc.git
+    cd trAPIc
+    ```
+
+2. Install the dependencies:
+    ```bash
+    pip install -r requirements.txt
+    ```
+---
+
+
+    
