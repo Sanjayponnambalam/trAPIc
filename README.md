@@ -79,6 +79,8 @@ The dataset includes the following columns:
 - A value of 0.342 indicates that the model has a relatively low average error when reconstructing the normal data patterns. This suggests the model has learned the underlying structure of the dataset effectively.
 - The standard deviation of 0.200 shows that the reconstruction errors are consistent and not highly variable, indicating a stable model performance.
 - The threshold of 0.941 implies that any data point with a reconstruction error above this value will be classified as an anomaly. This threshold balances between sensitivity and specificity for detecting anomalies.
+  
+---
 
 ## Reconstruction Error Distribution
 
